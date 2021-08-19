@@ -1,0 +1,22 @@
+.header {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+
+.title-site {
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: left;
+    font-size: 25px;
+}
+
+.recherche-box {
+    border: 1px solid gray;
+}
+
+.recherche-container {
+    border: unset;
+    height: 2rem;
+    width: 23.5rem;
+    float: left;
+}

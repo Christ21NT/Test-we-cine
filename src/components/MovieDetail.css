@@ -1,0 +1,47 @@
+.movie-detail-container {
+    display: flex;
+    background-color: rgb(239 239 239);
+    border: 1px solid rgb(239 239 239);
+    margin-bottom: 1.5rem;
+    padding: 10px;
+}
+.image-movie {
+    margin: 10px 15px;
+}
+.information-container {
+    margin-left: 20px;
+    text-align: left;
+    width: 44rem;
+}
+.title {
+    font-size: 20px;
+    color: gray;
+    font-weight: bolder;
+    margin-right: 10px;
+}
+.star-color {
+    color: blue;
+    font-size: 13px;
+    padding: 0 3px;
+}
+.votes-container {
+    margin-left: 10px;
+    font-size: 13px;
+    color: gray;
+}
+.information-date {
+    font-size: 15px;
+}
+.studio-info {
+    color: blue;
+    font-weight: bold;
+}
+.detail-button {
+    background-color: blue;
+    color: white;
+    border: 1px solid blue;
+    border-radius: 30%;
+    float: right;
+    width: 13rem;
+    height: 3.5rem;
+}

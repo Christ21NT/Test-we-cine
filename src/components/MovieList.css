@@ -1,0 +1,25 @@
+.video-annonce {
+    height: 25rem;
+    margin: 3rem;
+    border: 1px solid black;
+}
+.container-movies {
+    display: flex;
+    margin: 3rem;
+    justify-content: space-between;
+}
+.list-checkbox-container {
+    border: 1px solid black;
+    width: 20rem;
+    height: 21rem;
+    text-align: left;
+    font-size: 20px;
+    padding: 4rem 3rem;
+    line-height: 2.5rem;
+}
+.list-movies {
+    width: 55%;
+}
+.info-checkbox {
+    padding-left: 10px;
+}
